@@ -1,3 +1,29 @@
 body {
-    background-color: lightseagreen;
+    background-color: #E2E3E1;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#joke{
+    color: #69A562;
+    background-color: whitesmoke;
+    padding: 15px 0px;
+    border: 1px slategray solid;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+    background-color: whitesmoke;
+    padding: 15px;
+    border-radius: 30%;
+}
+
+button {
+    padding: 15px;
+    border-radius: 10%;
+}
+
+section{
+    margin-top: 2%;
 }
